@@ -1,2 +1,2 @@
 # P5
-P5.js exercises from The Coding Train!
+A collection of P5.js exercises from <a href="https://thecodingtrain.com/">The Coding Train. </a>
